@@ -9,4 +9,3 @@ It also includes
 <item>Working on JWT authentication
 </ls>
 <br>
-Author: Aastha
